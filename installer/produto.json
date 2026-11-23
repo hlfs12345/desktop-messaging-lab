@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "version": "0.1.0",
+  "build": 7,
+  "architecture": "x64",
+  "inno_version": "7.1.1",
+  "channels": {
+    "tecnico": {
+      "app_id": "eDisk-Tecnico-4D049DF2-A95B-4FB7-AD5C-6D1715A03654",
+      "directory": "eDisk-Tecnico"
+    },
+    "candidato": {
+      "app_id": "eDisk-68781B24-6CA7-4AB4-810F-F83514343B0C",
+      "directory": "eDisk"
+    }
+  }
+}

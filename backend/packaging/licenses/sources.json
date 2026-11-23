@@ -1,0 +1,42 @@
+{
+  "argon2-LICENSE.txt": {
+    "url": "https://raw.githubusercontent.com/P-H-C/phc-winner-argon2/f57e61e19229e23c4445b85494dbf7c07de721cb/LICENSE",
+    "upstream_sha256": "ac36638bcfcedb75441a5daeeaf4ef75b565911712583c272830e9fa7fddb590",
+    "file_sha256": "ac36638bcfcedb75441a5daeeaf4ef75b565911712583c272830e9fa7fddb590"
+  },
+  "cffi-libffi-LICENSE.txt": {
+    "url": "https://raw.githubusercontent.com/python-cffi/cffi/v2.1.1/src/c/libffi_x86_x64/LICENSE",
+    "upstream_sha256": "40a537c7d74baeed3831304e92d1664ababd7ad8a3cf29f11a257c9e47145248",
+    "file_sha256": "40a537c7d74baeed3831304e92d1664ababd7ad8a3cf29f11a257c9e47145248"
+  },
+  "Microsoft-redistribution.html": {
+    "url": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/redistribution",
+    "upstream_sha256": "f179e875ceaa92f6da5d8ffb3f4515965a89bce9b03fe9c40dbf9a0f48fe189e",
+    "file_sha256": "f179e875ceaa92f6da5d8ffb3f4515965a89bce9b03fe9c40dbf9a0f48fe189e"
+  },
+  "Microsoft-VS2026-Community.txt": {
+    "url": "https://visualstudio.microsoft.com/wp-content/uploads/2025/10/Visual_Studio_2026-License-Community_ENU.docx",
+    "upstream_sha256": "02ac07637f4a513a807cd3721c7620433fc483bc049d25784b0c10c54b05e1fb",
+    "file_sha256": "15d1b3e34b3a2a869bdddba585766f9901a4aaafad608aecbcf069b6032cea7c"
+  },
+  "OpenSSL-3.5.9-LICENSE.txt": {
+    "url": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.5.9/LICENSE.txt",
+    "file_sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+    "upstream_sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+  },
+  "zlib-ng-2.2.4-LICENSE.md": {
+    "url": "https://raw.githubusercontent.com/python/cpython-source-deps/zlib-ng-2.2.4/LICENSE.md",
+    "file_sha256": "6c9f0d975b41afaa34d22f55bb8986ce69e5cb7ad327cb2b28820cd425edf5ee",
+    "upstream_sha256": "6c9f0d975b41afaa34d22f55bb8986ce69e5cb7ad327cb2b28820cd425edf5ee"
+  },
+  "mpdecimal-4.0.0-COPYRIGHT.txt": {
+    "url": "https://raw.githubusercontent.com/python/cpython-source-deps/mpdecimal-4.0.0/COPYRIGHT.txt",
+    "file_sha256": "2713324211652ce4a60e6e21e54f9dc3004299e591b0933a352f1a89c5fb53c2",
+    "upstream_sha256": "2713324211652ce4a60e6e21e54f9dc3004299e591b0933a352f1a89c5fb53c2"
+  },
+  "xz-5.2.5-COPYING.txt": {
+    "url": "https://raw.githubusercontent.com/python/cpython-source-deps/xz-5.2.5/COPYING",
+    "file_sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c",
+    "upstream_sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c"
+  }
+}

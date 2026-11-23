@@ -1,0 +1,62 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+.env
+.env.*
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Ferramentas locais de desenvolvimento
+/.tools/
+
+# Dados locais e credenciais (nunca versionar dados reais)
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+*.db-journal
+*.sqlite-journal
+*.sqlite3-journal
+*.pem
+*.key
+*.pfx
+*.p12
+*.dpapi
+*.partial
+*.session
+*.session-journal
+*.log
+logs/
+data/
+dados/
+backups/
+exports/
+sessions/
+sessoes/
+credentials/
+credenciais/
+secrets/
+qr/
+auth_info_baileys/
+.wwebjs_auth/
+*.csv
+*.xls
+*.xlsx
+*.bak

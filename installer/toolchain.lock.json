@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "version": "7.1.1",
+  "iscc_sha256": "e0f9f1dc32032650c6629f6dee41eb6d20ba140e4e3c07c25d8a24f9ba781644",
+  "compiler_sha256": "7bf5943088e20ab95863a640d99c0234cf98e57850af82cdb465589f994d87de",
+  "license_sha256": "2e5346868c2a18434489824e11d65c3031620f792fefc415d05f19cd441abf5c",
+  "origin": "https://github.com/jrsoftware/issrc/releases/tag/is-7_1_1",
+  "edition": "x64",
+  "compiler_files": {
+    "ISPP.dll": "fef3c09323ffbcead73c306aa2626fc7dd1e316bf1a55d541d925286e5366015",
+    "ISPPBuiltins.iss": "cf7e509e2f0356b06f302d0e748bc8694a20114e5c00d7a0654183d5fe7f15a7",
+    "Setup.e64": "db68b336a2fdebd91850880ab51d7dd3b7a2e9e161be19e8f568a6802ad43a73",
+    "SetupLdr.e64": "9d58cb13add71e36c2057ab49549c5d1ad5005495cac93d2eb951c5d3004c9da",
+    "islzma-x64.dll": "40ff69ac37464035cec3338637f360f035f69beff8263c47f5913cbac8813158",
+    "Default.isl": "f2bbf8236200fd41919ac9cfde05841066ae4194deb36d06dc9445fdef99883b",
+    "Languages/BrazilianPortuguese.isl": "d0bddd148bf2e8ba999e0b40a6429d0711bc6476c2c5eac9c3da2b9ac88a4be4"
+  }
+}

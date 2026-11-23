@@ -1,0 +1,16 @@
+* text=auto
+
+*.md text eol=lf
+*.py text eol=lf
+*.dart text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+.gitignore text eol=lf
+.python-version text eol=lf
+*.lock text eol=lf
+.gitattributes text eol=lf

@@ -1,0 +1,10 @@
+Messaging Lab - instalador experimental, nao aprovado para distribuicao comercial.
+
+Este instalador nao solicita administrador, nao inicia o aplicativo e nao executa migracoes.
+Dados, backups, logs e autenticacao ficam fora do programa e sao preservados na desinstalacao.
+Dois marcadores tecnicos de propriedade e versao permanecem na pasta do programa para permitir reinstalacao segura.
+Atualizacoes sao manuais; feche o Messaging Lab antes de instalar. Versoes anteriores permanecem ate a desinstalacao.
+
+Licencas e avisos de terceiros acompanham os arquivos instalados em LICENSES e THIRD_PARTY_NOTICES.md.
+O aviso do Inno Setup acompanha o instalador em Inno-LICENSE.txt. O codigo Desktop Messaging Lab permanece proprietario.
+Revisao juridica, Windows limpo e assinatura digital continuam pendentes.
